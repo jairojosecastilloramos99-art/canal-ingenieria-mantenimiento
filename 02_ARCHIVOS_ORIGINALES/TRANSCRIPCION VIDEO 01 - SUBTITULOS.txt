@@ -1,0 +1,117 @@
+¿Qué pasaría en una planta industrial si mañana sus máquinas empezaran a perder su capacidad para producir con la cantidad, calidad y seguridad requeridas?
+Probablemente la primera respuesta sería: hay que llamar a mantenimiento.
+Pero aquí aparece una pregunta mucho más importante:
+¿El mantenimiento existe solamente para reparar máquinas?
+La respuesta es no.
+El mantenimiento industrial tiene una misión mucho más amplia: conseguir que los activos puedan cumplir las funciones que la organización necesita, de manera segura, sostenible y económicamente razonable.
+Durante mucho tiempo, para muchas personas, mantenimiento significó una cosa: reparar.
+Una máquina falla.
+Se busca la causa.
+Se cambia una pieza.
+Se restablece su funcionamiento.
+Y aparentemente el problema terminó.
+Pero eso es solamente una parte del mantenimiento.
+Si esperamos siempre a que aparezca el fallo para actuar, estamos reaccionando.
+La Ingeniería de Mantenimiento busca algo diferente:
+entender el comportamiento de los activos, anticipar problemas, controlar riesgos y tomar decisiones que permitan conservar o recuperar su función.
+Mantenimiento no es sinónimo de reparación.
+La norma Europea de terminología del Mantenimiento (EN 13306) utiliza una definición importante para entender este concepto:
+El mantenimiento comprende acciones técnicas, administrativas y de gestión realizadas durante el ciclo de vida de un elemento para conservarlo o devolverlo a un estado en el que pueda cumplir la función requerida.
+Hay tres conceptos que debemos conservar:
+acción, ciclo de vida y función requerida.
+Porque mantenimiento no comienza cuando aparece una avería.
+Y tampoco termina cuando cambiamos un componente.
+El mantenimiento acompaña al activo durante toda su vida útil.
+Podemos visualizar este ciclo como:
+diseño, instalación, operación, mantenimiento, mejora y finalmente renovación o retiro del activo.
+Por eso, cuando hablamos de mantenimiento industrial, estamos hablando de una función que acompaña al activo durante todo su ciclo de vida.
+Ahora aparece uno de los conceptos más importantes de todo el curso:
+la función requerida.
+Una bomba no existe simplemente para impulsar un líquido.
+Su función es trasegar un determinado caudal de líquido a una determinada presión y bajo unas condiciones específicas de operación.
+Un compresor no existe simplemente para comprimir aire para un proceso.
+Debe suministrar aire bajo unas condiciones determinadas de presión, caudal y humedad.
+Una máquina de producción no existe simplemente para permanecer encendida.
+Debe producir lo que se necesita para satisfacer los requerimientos del proceso, bajo unas condiciones determinadas de capacidad, calidad y seguridad.
+Por eso, para hablar correctamente de mantenimiento, primero debemos saber:
+¿Qué función debe cumplir el activo?
+Esta pregunta será fundamental durante todo nuestro estudio del mantenimiento industrial.
+Ahora debemos hacer una distinción fundamental.
+En mantenimiento industrial, fallo y avería no deben utilizarse como si fueran exactamente lo mismo.
+Pensemos nuevamente en una bomba centrífuga.
+¿Cuál es su función requerida?
+Trasegar el líquido bajo unas condiciones determinadas de caudal, presión y operación.
+Si la bomba pierde la capacidad de cumplir esa función, tenemos un fallo funcional.
+Pero ahora debemos preguntarnos:
+¿Qué está provocando ese fallo?
+Supongamos que encontramos deteriorado el sello mecánico.
+El sello mecánico puede presentar una avería, por ejemplo, un deterioro que provoque una fuga del fluido.
+Esa condición puede llevar finalmente a que la bomba no pueda cumplir adecuadamente su función requerida.
+Por eso podemos establecer una cadena conceptual muy importante:
+Función requerida.
+Fallo funcional.
+Avería.
+Consecuencia.
+En nuestro ejemplo:
+Bomba centrífuga.
+Función requerida: trasegar el líquido.
+Fallo funcional: pérdida de la capacidad de ejecutar la función requerida.
+Avería: condición de deterioro asociada al sello mecánico, que puede manifestarse, por ejemplo, mediante una fuga.
+Consecuencia: pérdida de fluido y una condición operativa no aceptable.
+Esta diferencia es fundamental.
+El fallo lo analizamos desde la función requerida que el activo o componente debe cumplir.
+La avería la relacionamos con la condición concreta de deterioro o afectación del elemento involucrado.
+Por eso debemos evitar confundir la función que se pierde con la condición del componente que contribuye a producir esa pérdida funcional.
+Esta distinción será fundamental cuando estudiemos posteriormente análisis de fallos, modos de fallo, causas, mecanismos de deterioro y estrategias de mantenimiento.
+¿Qué diferencia existe entre mantenimiento e Ingeniería de Mantenimiento?
+El mantenimiento comprende las acciones necesarias para conservar o recuperar la capacidad funcional del activo.
+La Ingeniería de Mantenimiento incorpora conocimientos, métodos, técnicas y herramientas de ingeniería para diseñar, analizar, optimizar y soportar esas actividades.
+Esto significa utilizar datos, análisis de fallos, confiabilidad, diagnóstico, monitoreo de condición, planificación, indicadores, gestión de riesgos y muchas otras herramientas.
+La Ingeniería de Mantenimiento busca que los activos puedan cumplir sus funciones requeridas de manera segura, sostenible y a un costo optimo durante su ciclo de vida.
+Por eso, no se trata solamente de ejecutar una actividad de mantenimiento.
+Se trata también de comprender por qué se realiza, cuándo debe realizarse, cómo debe realizarse y qué resultado esperamos obtener.
+Pero todavía falta una pieza.
+Podemos tener excelentes técnicos, excelentes herramientas y excelentes equipos, y aun así tener malos resultados si el mantenimiento no está gestionado.
+Por eso necesitamos planificar.
+Programar.
+Asignar recursos.
+Controlar costos.
+Medir resultados.
+Analizar indicadores.
+y mejorar.
+Aquí aparece la Gestión del Mantenimiento.
+Ya no estamos hablando solamente de una reparación.
+Estamos hablando de un sistema organizado para conseguir resultados.
+La gestión convierte las capacidades técnicas del mantenimiento en acciones coordinadas y orientadas al desempeño de la organización.
+Y llegamos a la idea que será transversal en todo este canal.
+Una organización no realiza mantenimiento simplemente porque necesita reparar máquinas.
+Lo hace porque necesita que sus activos contribuyan al cumplimiento de sus objetivos.
+Una gestión adecuada de los activos busca obtener valor durante su ciclo de vida.
+Por eso podemos conectar mantenimiento con:
+confiabilidad,
+disponibilidad,
+productividad,
+seguridad,
+control de costos
+y sostenibilidad.
+Cuando el mantenimiento se gestiona adecuadamente, puede contribuir a mejorar el desempeño de los activos y a reducir riesgos y pérdidas.
+Y aquí aparece nuestra filosofía:
+Ingeniería de Mantenimiento: generando valor y utilidad.
+Entonces, ¿qué es el mantenimiento industrial?
+No es simplemente reparar.
+No es solamente cambiar componentes.
+No es esperar a que aparezca un fallo.
+Es una función técnica, administrativa y de gestión que busca conservar o recuperar la capacidad de los activos para cumplir sus funciones requeridas durante su ciclo de vida.
+Y cuando incorporamos la ingeniería, los datos, el análisis, la gestión de riesgos y la toma de decisiones, podemos avanzar hacia una gestión mucho más madura.
+También debemos recordar una distinción fundamental:
+la función requerida nos permite determinar qué debe hacer el activo.
+El fallo representa la pérdida de la capacidad para cumplir esa función.
+La avería nos permite identificar la condición concreta de deterioro o afectación asociada al elemento involucrado.
+Y las consecuencias nos permiten comprender qué significa esa pérdida funcional para la operación.
+Esta forma de pensar será fundamental para todo lo que estudiaremos posteriormente en Ingeniería de Mantenimiento.
+En los próximos contenidos vamos a construir esta visión paso a paso.
+Comenzaremos comprendiendo los conceptos fundamentales y avanzaremos progresivamente hacia el análisis de fallos, confiabilidad, disponibilidad, estrategias de mantenimiento, indicadores y gestión.
+Esto es Mantenimiento Industrial.
+Ingeniería de Mantenimiento: generando valor y utilidad.
+Soy Jairo José Castillo Ramos.
+Y comenzamos.

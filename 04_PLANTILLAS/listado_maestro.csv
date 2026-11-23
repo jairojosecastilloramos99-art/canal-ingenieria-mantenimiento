@@ -1,0 +1,26 @@
+n,titulo,modulo,estado
+1,¿Qué es el mantenimiento industrial?,1 Fundamentos,publicado
+2,Evolución del mantenimiento,1 Fundamentos,siguiente
+3,Mantenimiento correctivo,1 Fundamentos,pendiente
+4,Mantenimiento preventivo,1 Fundamentos,pendiente
+5,Mantenimiento predictivo,1 Fundamentos,pendiente
+6,Mantenimiento proactivo,1 Fundamentos,pendiente
+7,Mantenimiento basado en condición,1 Fundamentos,pendiente
+8,Ingeniería de mantenimiento,1 Fundamentos,pendiente
+9,Plan maestro de mantenimiento,2 Gestión,pendiente
+10,Política de mantenimiento,2 Gestión,pendiente
+11,Objetivos del mantenimiento,2 Gestión,pendiente
+12,Indicadores KPI,2 Gestión,pendiente
+13,MTBF,2 Gestión,pendiente
+14,MTTR,2 Gestión,pendiente
+15,Disponibilidad,2 Gestión,pendiente
+16,Confiabilidad,2 Gestión,pendiente
+17,Mantenibilidad,2 Gestión,pendiente
+18,Concepto de confiabilidad,3 Confiabilidad,pendiente
+19,Curva de la bañera,3 Confiabilidad,pendiente
+20,Distribución Weibull,3 Confiabilidad,pendiente
+21,Análisis de fallas,3 Confiabilidad,pendiente
+22,FMEA,3 Confiabilidad,pendiente
+23,FMECA,3 Confiabilidad,pendiente
+24,Análisis de criticidad,3 Confiabilidad,pendiente
+25,RCA,3 Confiabilidad,pendiente

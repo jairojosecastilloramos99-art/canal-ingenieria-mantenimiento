@@ -1,0 +1,33 @@
+{
+  "id": "V02",
+  "modulo": "1 - Fundamentos",
+  "titulo_trabajo": "Evolución del mantenimiento",
+  "estado": "pendiente",
+  "duracion_objetivo_s": 540,
+  "objetivos": ["...", "...", "..."],
+  "fuentes": [{"referencia": "EN 13306", "uso": "definiciones"}],
+  "escenas": [
+    {
+      "n": 1,
+      "seccion": "apertura",
+      "encuadre": "avatar_completo",
+      "narracion": "...",
+      "visual": {"tipo": "planta", "descripcion": "..."},
+      "texto_en_pantalla": "...",
+      "duracion_s": 25
+    },
+    {
+      "n": 2,
+      "seccion": "concepto",
+      "encuadre": "avatar_mas_grafico",
+      "narracion": "...",
+      "visual": {"tipo": "grafico_concepto", "descripcion": "cadena animada"},
+      "texto_en_pantalla": "...",
+      "duracion_s": 40
+    }
+  ],
+  "seguridad": ["puntos a verificar por el Revisor Técnico"],
+  "cierre": "Ingeniería de Mantenimiento: generando valor y utilidad.",
+  "shorts_candidatos": ["idea completa 1", "idea completa 2"],
+  "aprobacion": {"revisor_tecnico": null, "jjc": null, "fecha": null, "cambios": []}
+}
